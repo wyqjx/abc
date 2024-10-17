@@ -1,7 +1,7 @@
 登录 GitHub 网站,创建建一个新的 abc 仓库
 开始始一个新项目,假设当在abc目录下,执行如下代码
 
-
+<pre>
 echo "# abc" >> README.md
 git init
 git add README.md
@@ -10,7 +10,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/wyqjx/abc.git
 git push -u origin main
-
+</pre>
 
 
 
